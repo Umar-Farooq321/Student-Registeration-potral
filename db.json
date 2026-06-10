@@ -1,1 +1,71 @@
-
+{
+  "students": [
+    {
+      "id": "1",
+      "fullName": "Muhammad Ali Ahmed",
+      "email": "ali.ahmed@example.com",
+      "rollNo": "BCS-24-01",
+      "phone": "03001234567",
+      "department": "Computer Science",
+      "semester": "4th",
+      "registrationDate": "2024-11-15",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "fullName": "Fatima Khan",
+      "email": "fatima.khan@example.com",
+      "rollNo": "BSE-23-14",
+      "phone": "03123456789",
+      "department": "Software Engineering",
+      "semester": "6th",
+      "registrationDate": "2023-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "fullName": "Bilal Mustafa",
+      "email": "bilal.m@example.com",
+      "rollNo": "BIT-25-05",
+      "phone": "03214567890",
+      "department": "Information Technology",
+      "semester": "2nd",
+      "registrationDate": "2025-03-01",
+      "status": "Suspended"
+    },
+    {
+      "id": "4",
+      "fullName": "Aisha Noor",
+      "email": "aisha.noor@example.com",
+      "rollNo": "BDS-22-22",
+      "phone": "03339876543",
+      "department": "Data Science",
+      "semester": "8th",
+      "registrationDate": "2022-10-05",
+      "status": "Graduated"
+    },
+    {
+      "id": "5",
+      "fullName": "Zainab Bibi",
+      "email": "zainab.b@example.com",
+      "rollNo": "BCS-22-09",
+      "phone": "03456789012",
+      "department": "Computer Science",
+      "semester": "7th",
+      "registrationDate": "2022-10-12",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "fullName": "Usman Tariq",
+      "email": "usman.t@example.com",
+      "rollNo": "BSE-23-45",
+      "phone": "03009876543",
+      "department": "Software Engineering",
+      "semester": "5th",
+      "registrationDate": "2023-09-12",
+      "status": "Active"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
